@@ -1,3 +1,3 @@
-module github.com/abdullahalwafi/go-say-hello/v2
+module github.com/abdullahalwafi/go-say-hello
 
 go 1.20
