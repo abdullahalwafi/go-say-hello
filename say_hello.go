@@ -2,6 +2,6 @@ package say_hello
 
 import "fmt"
 
-func SayHello() string {
-	return "Hello, World!"
+func SayHello(nama string) string {
+	return "Hello, World! My name is " + nama
 }
